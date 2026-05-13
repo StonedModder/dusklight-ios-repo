@@ -1,0 +1,28 @@
+{
+  "name": "Dusklight AltStore Source",
+  "identifier": "com.twilitrealm.dusklight.source",
+  "iconURL": "",
+  "website": "",
+  "apps": [
+    {
+      "name": "Dusklight",
+      "bundleIdentifier": "com.twilitrealm.dusklight",
+      "developerName": "TwilitRealm",
+      "iconURL": "",
+      "localizedDescription": "## Release v1.1.1\r\n\r\nThe first release as **Dusklight**!\r\nOur entire team has been working very hard to address issues and add new features.\r\n\r\n**What's new:**\r\n- **Added:** Custom action binds for Dusklight Menu, Turbo, Midna, and First Person Camera\r\n- **Added:** D-Pad menu navigation in-game\r\n- **Added:** Change Data Folder & Portable Mode (desktop only; Android coming soon)\r\n  - Portable Mode (Windows only): saves, texture packs and config are stored next to the .exe in `data/`\r\n  - Change D…",
+      "subtitle": "",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "1.1.1",
+          "versionDate": "2026-05-13T15:51:54Z",
+          "downloadURL": "https://github.com/StonedModder/dusklight-ios-repo/releases/download/v1.1.1/Dusklight-v1.1.1-ios-arm64.ipa",
+          "size": 27016607,
+          "localizedDescription": "## Release v1.1.1\r\n\r\nThe first release as **Dusklight**!\r\nOur entire team has been working very hard to address issues and add new features.\r\n\r\n**What's new:**\r\n- **Added:** Custom action binds for Dusklight Menu, Turbo, Midna, and First Person Camera\r\n- **Added:** D-Pad menu navigation in-game\r\n- **Added:** Change Data Folder & Portable Mode (desktop only; Android coming soon)\r\n  - Portable Mode (Windows only): saves, texture packs and config are stored next to the .exe in `data/`\r\n  - Change D…"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
